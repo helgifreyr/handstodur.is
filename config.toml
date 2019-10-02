@@ -10,6 +10,7 @@ disableKinds=["RSS"]
   description = '<!--[-->Handstöðukennsla!<!--]-->'
   logoimage = "/images/8bit-circle - b&w.png"
   copyright = "Helgi"
+  custom_css = ["css/custom.css"]
 
 [[params.social]]
   medium = "instagram"
