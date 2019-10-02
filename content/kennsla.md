@@ -41,8 +41,8 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
     <div class="column">
         <h3>Fjarþjálfun</h3>
              <p class="texti">
-             Fjarþjálfun er tilvalin fyrir þá sem komast ekki á námskeið eða vilja aðhald eftir námskeið.
-             Ég set saman prógram fyrir þig eftir að hafa fengið myndir og myndbönd af stöðunni hjá þér.
+             Fjarþjálfun er tilvalin fyrir þá sem komast ekki á námskeið eða vilja aðhald eftir námskeið. 
+             Ég set saman prógram fyrir þig eftir að hafa fengið myndir og myndbönd af stöðunni hjá þér. 
              Á nokkurra vikna fresti sendir þú svo á mig stöðuuppfærslur og ég leiðbeini þér og uppfæri prógrammið þitt. <br>
              Þannig getur þú bætt þig sem hraðast í handstöðunni þar sem að prógrammið er sérsniðið að þér og þínum þörfum. <br>
              Ég get hjálpað þér með flest sem viðkemur handstöðunni, hvort sem það er að komast á hvolf í fyrsta skipti, halda jafnvægi, pressa upp í handstöðu eða ganga á höndum.
