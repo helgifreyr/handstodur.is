@@ -31,6 +31,6 @@ disableKinds=["RSS"]
 [languages.is]
 languageName = "Íslenska"
 weight = 1
-title = "Lærðu að standa á höndum!"
+title = "Lærðu að standa á höndum! bla bla bla"
 baseurl = "http://handstodur.is"
 description = '<!--[-->Námskeið, einkatímar, fjarþjálfun og vikulegir ástundunartímar <br><br>Helgi Freyr, eigandi og þjálfari <a href="http://primal.is">Primal Iceland</a>, býður upp á handstöðukennslu sem hentar öllum <br><br> Hvort sem að þú ert byrjandi, kannt að standa á höndum eða einfaldlega forvitin, þá get ég hjálpað þér<!--]-->'
