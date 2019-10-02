@@ -26,6 +26,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
             <h3>Einkatímar</h3>
             <p class="texti">Ég býð upp á einkatíma í bæði handstöðum og liðleikaþjálfun.
             Þar er unnið annað hvort einn-á-einn eða í 2-4 manna hópum á markvissan hátt í að bæta handstöður og/eða liðleika.<br>
+            Einkatímarnir eru fín leið til þess að koma iðkun af stað. Heimavinnu prógram er sett saman til þess að ná sem mestum árangri.<br>
             <b>Verð</b>: 13.900 kr fyrir 60 mínútur</p>
     </div>
     <div class="column"><img src="/images/pic02.jpg" width="90%" height="90%"/></div>
