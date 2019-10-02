@@ -14,7 +14,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
         <h3>Námskeið</h3>
             Ég held reglulega helgarnámskeið þar sem að farið er yfir undirstöðuatriði handstöðulistarinnar
             og iðkendur læra þær æfingar sem munu hjálpa þeim.<br>
-            Næsta námskeið: 5. og 6. október.<br>
+            Næsta námskeið: <b>5. og 6. október</b>.<br>
             <b>Byrjendur</b>: 12.00-14.15<br>
             <b>Lengra komnir</b>: 14.30-16.45<br>
             <b>Verð</b>: 15.000 kr</p>
@@ -35,9 +35,12 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
     <div class="column"><img src="/images/pic03.jpg" width="90%" height="90%"/></div>
     <div class="column">
         <h3>Fjarþjálfun</h3>
-             Sérsniðið heimavinnu prógram með reglulegum samskiptum yfir tölvupóst, skilaboð og myndbönd.
-             Prógrammið er sérsniðið að þinni getu hverju sinni og uppfært þegar að þú bætir þig.
-             Ég býð upp á eins eða þriggja mánaða fjarþjálfunar fasa.<br>
+             Fjarþjálfun er tilvalin fyrir þá sem komast ekki á námskeið eða vilja aðhald eftir námskeið.
+             Ég set saman prógram fyrir þig eftir að hafa fengið myndir og myndbönd af stöðunni hjá þér.
+             Á nokkurra vikna fresti sendir þú svo á mig stöðuuppfærslur og ég leiðbeini þér og uppfæri prógrammið þitt. <br>
+             Þannig getur þú bætt þig sem hraðast í handstöðunni þar sem að prógrammið er sérsniðið að þér og þínum þörfum. <br>
+             Ég get hjálpað þér með flest sem viðkemur handastöðunni, hvort sem það er að komast á hvolf í fyrsta skipti, halda jafnvægi, pressa upp í handstöðu eða ganga á höndum.
+             <br>
              <b>Verð</b>: 16.900 kr fyrir einn mánuð, 42.900 kr fyrir þrjá.
     </div>
 </div>
