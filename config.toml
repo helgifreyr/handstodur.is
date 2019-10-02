@@ -1,0 +1,35 @@
+baseurl = "http://handstodur.is"
+title = "Handstöðu Helgi"
+theme = "dimension"
+languageCode = "en-is"
+defaultContentLanguage = "is"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Handstöðukennsla!<!--]-->'
+  logoimage = "/images/8bit-circle - b&w.png"
+  copyright = "Helgi"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "http://instagram.com/helgi_freyr"
+  
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/HandstoduHelgi/"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "mailto:helgi@primal.is"
+
+[languages]
+[languages.is]
+languageName = "Íslenska"
+weight = 1
+title = "Handstöður"
+baseurl = "http://handstodur.is"
+description = '<!--[-->Námskeið, einkatímar, fjarþjálfun og vikulegir ástundunartímar!<br>Helgi Freyr, eigandi og þjálfari Primal Iceland, býður upp á handstöðukennslu sem hentar öllum.<br> Hvort sem að þú ert byrjandi, kannt að standa á höndum eða einfaldlega forvitin, þá get ég hjálpað þér.<!--]-->'
