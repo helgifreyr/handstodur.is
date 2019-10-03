@@ -13,7 +13,9 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
     <div class="column">
         <h3>Námskeið</h3>
             <p class="texti">
-            Ég held reglulega helgarnámskeið þar sem að farið er yfir undirstöðuatriði handstöðulistarinnar. Námskeiðið hentar öllum og býð ég upp á bæði hóp fyrir byrjendur og lengra komna.<br>
+            Ég held reglulega helgarnámskeið þar sem að farið er yfir undirstöðuatriði handstöðulistarinnar. 
+            Á námskeiðinu er markmiðið að iðkendur læri þær æfingar sem þau þurfa til þess að bæta sig í sinni handstöðu.<br>
+            Námskeiðið hentar öllum og býð ég upp á bæði hóp fyrir byrjendur og lengra komna.
             <i>Lengra komnir</i> eru þeir sem komast á hvolf við vegg og líður ágætlega þar í 30 sekúndur eða lengur.<br>
             <b><a href="https://www.facebook.com/events/370761933810375/">Næsta námskeið</a></b>: 5. og 6. október.<br>
             <b>Byrjendur</b>: 12.00-14.15<br>
@@ -27,9 +29,10 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
     <div class="column">
             <h3>Einkatímar</h3>
             <p class="texti">
-            Ég býð upp á einkatíma í bæði handstöðum og liðleikaþjálfun.
-            Þar er unnið annað hvort einn-á-einn eða í 2-4 manna hópum á markvissan hátt í að bæta handstöður og/eða liðleika.<br>
-            Einkatímarnir eru fín leið til þess að koma iðkun af stað. Heimavinnu prógram er sett saman til þess að ná sem mestum árangri.<br>
+            Í einkatímum er unnið einn-á-einn eða í 2-4 manna hópum á markvissan hátt í að bæta handstöður og/eða liðleika. <br>
+            Einkatímar henta þeim vel sem iðka aðra íþrótt eða list en vilja bæta handstöðuna sína.
+            Þannig get ég sett saman æfingar og heimavinnu sem að passar með hinni iðkuninni. <br>
+            Ég býð upp á einkatíma á virkum dögum í Primal Iceland.<br>
             <b>Verð</b>: 13.900 kr fyrir 60 mínútur
             </p>
     </div>
@@ -41,11 +44,11 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
     <div class="column">
         <h3>Fjarþjálfun</h3>
              <p class="texti">
-             Fjarþjálfun er tilvalin fyrir þá sem komast ekki á námskeið eða vilja aðhald eftir námskeið. 
-             Ég set saman prógram fyrir þig eftir að hafa fengið myndir og myndbönd af stöðunni hjá þér. 
-             Á nokkurra vikna fresti sendir þú svo á mig stöðuuppfærslur og ég leiðbeini þér og uppfæri prógrammið þitt. <br>
-             Þannig getur þú bætt þig sem hraðast í handstöðunni þar sem að prógrammið er sérsniðið að þér og þínum þörfum. <br>
-             Ég get hjálpað þér með flest sem viðkemur handstöðunni, hvort sem það er að komast á hvolf í fyrsta skipti, halda jafnvægi, pressa upp í handstöðu eða ganga á höndum.
+             Í fjarþjálfun set ég saman prógram fyrir iðkanda miðað við myndir, myndbönd og spurningalista.
+             Á reglulegu millibili, tökum við svo stöðuna, ég leiðbeini og hjálpa til við framkvæmd æfinga og uppfæri svo prógrammið.
+             Þannig fær iðkandinn breytilegt en sérsniðið prógram að sínum þörfum. <br>
+             Fjarþjálfun hentar þeim vel sem komast ekki á námskeið eða í einkatíma eða vilja hreinlega iðka sjálfir í einrúmi.
+             Ég lærði sjálfur flest sem ég kann í fjarþjálfun hjá mínum kennurunum.
              <br>
              <b>Verð</b>: 16.900 kr fyrir einn mánuð, 42.900 kr fyrir þrjá mánuði.
              </p>
@@ -56,8 +59,10 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
     <div class="column">
         <h3>Ástundunartímar</h3>
             <p class="texti">
-            Flesta þriðjudaga kl. 18.45-20.00 býð ég upp á <a href="https://www.facebook.com/events/242141730036898/">handstöðu ástundunartíma í Primal Iceland</a>.
-            Eftir sameiginlega upphitun, þá iðkar hver og einn sína handstöðu með hjálp frá mér.<br>
+            Í ástundunartímum er hugmyndin að iðkendur mæti og æfi sína handstöðu í hóp.
+            Hver og einn er því að gera sínar æfingar en umhverfið hvetur fólk til bætinga og betri skilnings.
+            Ég er á staðnum til þess að leiðbeina en geng á milli og hjálpa hverjum og einum á sínum stað. <br>
+            Tímarnir eru á <b>þriðjudögum kl. 18.45</b>. <br>
             <b>Verð</b>: 2.500 kr skiptið. Frítt fyrir áskrifendur í Movement hjá Primal Iceland.
             </p>
     </div>
