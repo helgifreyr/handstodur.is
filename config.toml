@@ -1,5 +1,6 @@
 baseurl = "https://handstodur.is"
 title = "Handstöðu Helgi"
+subtitle = "Test"
 theme = "dimension"
 languageCode = "en-is"
 defaultContentLanguage = "is"
@@ -32,5 +33,6 @@ disableKinds=["RSS"]
 languageName = "Íslenska"
 weight = 1
 title = "Lærðu að standa á höndum!"
+subtitle = "Námskeið, einkatímar, fjarþjálfun og vikulegir ástundunartímar."
 baseurl = "http://handstodur.is"
-description = '<!--[-->Námskeið, einkatímar, fjarþjálfun og vikulegir ástundunartímar. <br> <br> Helgi Freyr, eigandi og þjálfari <a href="http://primal.is" target="_blank">Primal Iceland</a>, býður upp á handstöðukennslu sem hentar öllum. <br><br> Hvort sem að þú ert byrjandi, kannt að standa á höndum eða einfaldlega forvitin, þá get ég hjálpað þér.<!--]-->'
+description = '<!--[--> Handstöður krefjast einbeitingar, styrks og liðleika af öllum líkamanum. Ég hef sérhæft mig í handstöðunni og því að kenna bæði fullorðnum og börnum listina að standa á höndum. Til mín hafa leitað tæplega eitt þúsund manns síðan að ég fór fyrst af stað með námskeið haustið 2017. Ég hef eitthvað upp á að bjóða fyrir alla, hvort sem að um algjöra byrjendur er að ræða eða þá sem nú þegar kunna að standa á höndum og allt þar á milli. Smelltu á <a href="#kennsla">kennsla</a> til að lesa um það sem ég hef uppá að bjóða.<!--]-->'

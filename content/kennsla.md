@@ -6,12 +6,12 @@ weight: 10
 ---
 
 Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það og langar að læra meira?
-Ég býð upp á margskonar þjálfun og kennslu: námskeið, einkatíma, fjarþjálfun, ástundunartíma eða gestakennslu.
+Ég býð upp á margskonar þjálfun og kennslu: <a href="#namskeid">námskeið</a>, <a href="#einkatimar">einkatíma</a>, <a href="#fjarthjalfun">fjarþjálfun</a>, <a href="#astundun">ástundunartíma</a> eða <a href="#gestakennsla">gestakennslu</a>.
 
 <div class="row">
     <div class="column"><img src="/images/pic01.jpg" width="90%" height="90%"/></div>
     <div class="column">
-        <h3>Námskeið</h3>
+        <h3 id="namskeid">Námskeið</h3>
             <p class="texti">
             Ég held reglulega helgarnámskeið þar sem að farið er yfir undirstöðuatriði handstöðulistarinnar. 
             Á námskeiðinu er markmiðið að iðkendur læri þær æfingar sem þau þurfa til þess að bæta sig í sinni handstöðu.<br>
@@ -27,7 +27,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
 <br>
 <div class="row">
     <div class="column">
-            <h3>Einkatímar</h3>
+            <h3 id="einkatimar">Einkatímar</h3>
             <p class="texti">
             Í einkatímum er unnið einn-á-einn eða í 2-4 manna hópum á markvissan hátt í að bæta handstöður og/eða liðleika. <br>
             Einkatímar henta þeim vel sem iðka aðra íþrótt eða list en vilja bæta handstöðuna sína.
@@ -42,7 +42,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
 <div class="row">
     <div class="column"><img src="/images/pic03.jpg" width="90%" height="90%"/></div>
     <div class="column">
-        <h3>Fjarþjálfun</h3>
+        <h3 id="fjarthjalfun">Fjarþjálfun</h3>
              <p class="texti">
              Þar sem að fólk er á mismunandi stað í handstöðunni sinni, getur verið erfitt að setja saman prógram eftir námskeið.
              Fjarþjálfun er góður kostur þar sem að ég sé um að setja saman prógram sérsniðið að þinni getu.<br>
@@ -58,7 +58,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
 <br>
 <div class="row">
     <div class="column">
-        <h3>Ástundunartímar</h3>
+        <h3 id="astundun">Ástundunartímar</h3>
             <p class="texti">
             Í ástundunartímum er hugmyndin að iðkendur mæti og æfi sína handstöðu í hóp.
             Hver og einn er því að gera sínar æfingar en umhverfið hvetur fólk til bætinga og betri skilnings.
@@ -71,7 +71,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
 </div>
 <br>
 
-### Gestakennsla
+<h2 id="gestakennsla">Gestakennsla</h2>
 
 Ég hef einnig haldið námskeið fyrir stærri hópa, stöðvar eða stúdíó. Dæmi um það eru vinahópar, íþróttafélög og fyrirtæki. Þau námskeið geta verið allt frá stuttum 90 mínútna kynningum að 6 tíma helgarnámskeiði.
 

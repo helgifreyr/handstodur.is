@@ -16,6 +16,7 @@
             <div class="content">
               <div class="inner">
                 <h1>{{ .Site.Title | safeHTML }}</h1>
+                <h4>{{ .Site.Params.subtitle | safeHTML }}</h4>
                 <p>{{ .Site.Params.description | safeHTML }}</p>
               </div>
             </div>
