@@ -44,11 +44,13 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
     <div class="column">
         <h3>Fjarþjálfun</h3>
              <p class="texti">
-             Í fjarþjálfun set ég saman prógram fyrir iðkanda miðað við myndir, myndbönd og spurningalista.
-             Á reglulegu millibili, tökum við svo stöðuna, ég leiðbeini og hjálpa til við framkvæmd æfinga og uppfæri svo prógrammið.
+             Í grunnin virkar fjarþjálfunin þannig að þú sendir á mig svör við nokkrum spurningum ásamt myndum og myndböndum af þinni getu í handstöðunni.
+             Útfrá því set ég saman prógram fyrir þig sem að þú æfir eftir.
+             Reglulega sendir þú mér stöðuna sem myndbönd af þeim æfingum sem eru í prógramminu.
+             Þannig get ég fylgst með framförunum og verið viss um að allt sé framkvæmt rétt.
+             Hægt og rólega uppfærum við svo prógrammið þegar að þú bætir þig.
              Þannig fær iðkandinn breytilegt en sérsniðið prógram að sínum þörfum. <br>
              Fjarþjálfun hentar þeim vel sem komast ekki á námskeið eða í einkatíma eða vilja hreinlega iðka sjálfir í einrúmi.
-             Ég lærði sjálfur flest sem ég kann í fjarþjálfun hjá mínum kennurunum.
              <br>
              <b>Verð</b>: 16.900 kr fyrir einn mánuð, 42.900 kr fyrir þrjá mánuði.
              </p>
