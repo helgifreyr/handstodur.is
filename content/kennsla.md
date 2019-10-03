@@ -6,7 +6,7 @@ weight: 10
 ---
 
 Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það og langar að læra meira?
-Ég býð upp á margskonar þjálfun: námskeið, einkatíma, fjarþjálfun, ástundunartíma eða gestakennslu.
+Ég býð upp á margskonar þjálfun og kennslu: námskeið, einkatíma, fjarþjálfun, ástundunartíma eða gestakennslu.
 
 <div class="row">
     <div class="column"><img src="/images/pic01.jpg" width="90%" height="90%"/></div>
