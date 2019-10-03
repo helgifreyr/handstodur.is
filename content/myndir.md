@@ -7,7 +7,7 @@ weight: 20
 
 <!-- {{< youtube id="9a_BO6aK16k" autoplay="true" >}} -->
 
-<h3><a href="http://www.jongudmundsson.com/">Jón Guðmundsson</a></h3>
+<h3><a href="https://www.jongudmundsson.com/">Jón Guðmundsson</a></h3>
 {{< gallery dir="/images/gallery/nonni" />}} {{< load-photoswipe >}}
 
 <h3><a href="https://www.facebook.com/dukagjinfilm/">Dukagjin Idrizi</a></h3>
