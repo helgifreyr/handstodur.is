@@ -13,7 +13,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
     <div class="column">
         <h3 id="namskeid">Námskeið</h3>
             <p class="texti">
-            Ég held reglulega helgarnámskeið þar sem að farið er yfir undirstöðuatriði handstöðulistarinnar. 
+            Ég held reglulega námskeið, bæði helgar og fjögurra vikna, þar sem að farið er yfir undirstöðuatriði handstöðulistarinnar. 
             Á námskeiðinu er markmiðið að iðkendur læri þær æfingar sem þau þurfa til þess að bæta sig í sinni handstöðu.<br>
             Námskeiðið hentar öllum og býð ég upp á bæði hóp fyrir byrjendur og lengra komna.
             <i>Lengra komnir</i> eru þeir sem komast á hvolf við vegg og líður ágætlega þar í 30 sekúndur eða lengur.<br>
