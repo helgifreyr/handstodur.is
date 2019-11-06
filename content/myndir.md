@@ -10,7 +10,8 @@ weight: 20
 <div>
 Ýsmir aðilar hafa smellt af myndum af mér í handstöðum. Hér má finna ágætis samansafn af því.
 Meðal ljósmyndara eru: <a href="https://www.jongudmundsson.com/">Jón Guðmundsson</a>, <a href="https://www.facebook.com/dukagjinfilm/">Dukagjin Idrizi</a>, <a href="https://www.facebook.com/sevelightdrawing/">Seve Lightdrawing</a> og <a href="https://www.instagram.com/raycapture/">Mehrnaz</a>.
-
+</div>
+<div>
 <section id="photos">
 	{{< shuffle >}}
 </section>
