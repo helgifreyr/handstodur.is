@@ -1,1 +1,1 @@
-for file in $1/*; do echo "<img src=\"/images/gallery/${file}\" alt>"; done
+for file in $1/*; do echo "<div><img src=\"/images/gallery/${file}\" alt></div>"; done
