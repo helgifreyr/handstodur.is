@@ -64,6 +64,7 @@ p.texti {
 	z-index: 5;
 }
 
+
 .img-wrap:hover {
 	transform: scale(1.5);
 	z-index:10;
@@ -91,8 +92,8 @@ p.texti {
 	text-align: center;
 	margin: 0;
 	padding: 1px;
-	font-size: 8px;
-	line-height: 8px;
+	font-size: 18px;
+	line-height: 18px;
 	background-color: rgba(0,0,0,0.8);
 	transition: all 300ms ease;
 	transition-delay: 300ms;
