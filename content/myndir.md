@@ -23,6 +23,14 @@ weight: 20
 <div class="column">
 <h3><a href="https://www.facebook.com/dukagjinfilm/">Dukagjin Idrizi</a></h3>
 <!-- {{< gallery dir="/images/gallery/duki" />}}-->
+<div id="slider">
+  <figure>
+	<img src="/images/gallery/duki/61868559_641591489648394_3290935243640406016_n.jpg" alt>
+	<img src="/images/gallery/duki/DSC00623.jpg" alt>
+	<img src="/images/gallery/duki/DSC09905.jpg" alt>
+	<img src="/images/gallery/duki/DSC09927.jpg" alt>
+  </figure>
+</div>
 </div>
 </div>
 
@@ -32,5 +40,14 @@ weight: 20
 <div class="column">
 <h3><a href="https://www.facebook.com/sevelightdrawing/">Seve Lightdrawing</a></h3>
 <!-- {{< gallery dir="/images/gallery/seve" />}} {{< load-photoswipe >}}-->
+<div id="slider">
+  <figure>
+	<img src="/images/gallery/seve/Cane one arm color.JPG" alt>
+	<img src="/images/gallery/seve/Cane one arm.JPG" alt>
+	<img src="/images/gallery/seve/Push Harder - Conditionning 9.JPG" alt>
+	<img src="/images/gallery/seve/Spotted figa by Mikael.JPG" alt>
+	<img src="/images/gallery/seve/Tuck spot by Mikael.JPG" alt>
+  </figure>
+</div>
 </div>
 </div>
