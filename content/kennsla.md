@@ -27,11 +27,12 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
 <br>
 <div class="row">
     <div class="column">
-            <h3 id="einkatimar">Einkatímar</h3>
+            <h3 id="einkatimar">Einkatímar og hópþjálfun</h3>
             <p class="texti">
             Í einkatímum er unnið einn-á-einn eða í 2-4 manna hópum á markvissan hátt í að bæta handstöður og/eða liðleika. <br>
             Einkatímar henta þeim vel sem iðka aðra íþrótt eða list en vilja bæta handstöðuna sína.
-            Þannig get ég sett saman æfingar og heimavinnu sem að passar með hinni iðkuninni. <br>
+            Þannig get ég sett saman æfingar og heimavinnu sem að passar með hinni iðkuninni. 
+			Tilvalið er fyrir æfingafélaga að mæta saman og fá æfingaprógram til að vinna saman í.<br>
             Ég býð upp á einkatíma á virkum dögum í Primal Iceland.<br>
             <b>Verð</b>: 13.900 kr fyrir 60 mínútur
             </p>
