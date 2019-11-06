@@ -7,13 +7,13 @@ weight: 20
 
 <h3><a href="https://www.jongudmundsson.com/">Jón Guðmundsson</a></h3>
 <!-- {{< gallery dir="/images/gallery/nonni" />}}-->
-<div id="slider">
-<figure>
-<img src="/images/gallery/nonni/Bent leg straddle.jpg" alt>
-<img src="/images/gallery/nonni/Full position.jpg" alt>
-<img src="/images/gallery/nonni/Straddle.jpg" alt>
-<img src="/images/gallery/nonni/Twisty shape.jpg" alt>
-</figure>
+<div id="slidy-container">
+  <figure id="slidy">
+    <img src="/images/gallery/nonni/nonni/Bent leg straddle.jpg" alt>
+	<img src="/images/gallery/nonni/nonni/Full position.jpg" alt>
+	<img src="/images/gallery/nonni/nonni/Straddle.jpg" alt>
+	<img src="/images/gallery/nonni/nonni/Twisty shape.jpg" alt>
+  </figure>
 </div>
 
 <h3><a href="https://www.facebook.com/dukagjinfilm/">Dukagjin Idrizi</a></h3>
