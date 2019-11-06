@@ -9,10 +9,10 @@ weight: 20
 <!-- {{< gallery dir="/images/gallery/nonni" />}}-->
 <div id="slider">
 <figure>
-<img src="/images/gallery/Bent leg straddle.jpg" alt>
-<img src="/images/gallery/Full position.jpg" alt>
-<img src="/images/gallery/Straddle.jpg" alt>
-<img src="/images/gallery/Twisty shape.jpg" alt>
+<img src="/images/gallery/nonni/Bent leg straddle.jpg" alt>
+<img src="/images/gallery/nonni/Full position.jpg" alt>
+<img src="/images/gallery/nonni/Straddle.jpg" alt>
+<img src="/images/gallery/nonni/Twisty shape.jpg" alt>
 </figure>
 </div>
 
