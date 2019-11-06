@@ -14,4 +14,4 @@ weight: 20
 {{< gallery dir="/images/gallery/duki" />}}
 
 <h3><a href="https://www.facebook.com/sevelightdrawing/">Seve Lightdrawing</a></h3>
-{{< gallery dir="/images/gallery/seve" />}} {{< load-photoswipe >}}
+{{< gallery dir="/images/gallery/seve" />}}
