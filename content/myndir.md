@@ -10,6 +10,7 @@ weight: 20
 <div>
 Ýsmir aðilar hafa smellt af myndum af mér í handstöðum. Hér má finna ágætis samansafn af því.
 Meðal ljósmyndara eru: <a href="https://www.jongudmundsson.com/">Jón Guðmundsson</a>, <a href="https://www.facebook.com/dukagjinfilm/">Dukagjin Idrizi</a>, <a href="https://www.facebook.com/sevelightdrawing/">Seve Lightdrawing</a> og <a href="https://www.instagram.com/raycapture/">Mehrnaz</a>.
+
 <section id="photos">
 	<div class=img-wrap><img class="img" src="/images/gallery/nonni/Arm.jpg" alt="Jón Guðmundsson"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/nonni/Bent leg straddle.jpg" alt="Jón Guðmundsson"></div>
@@ -17,14 +18,12 @@ Meðal ljósmyndara eru: <a href="https://www.jongudmundsson.com/">Jón Guðmund
 	<div class=img-wrap><img class="img" src="/images/gallery/nonni/Full position.jpg" alt="Jón Guðmundsson"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/nonni/Straddle.jpg" alt="Jón Guðmundsson"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/nonni/Twisty shape.jpg" alt="Jón Guðmundsson"></div>
-
 	<div class=img-wrap><img class="img" src="/images/gallery/duki/61868559_641591489648394_3290935243640406016_n.jpg" alt="Dukagjin Idrizi"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/duki/DSC00623.jpg" alt="Dukagjin Idrizi"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/duki/DSC06467.jpg" alt="Dukagjin Idrizi"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/duki/DSC09905.jpg" alt="Dukagjin Idrizi"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/duki/DSC09916.jpg" alt="Dukagjin Idrizi"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/duki/DSC09927.jpg" alt="Dukagjin Idrizi"></div>
-
 	<div class=img-wrap><img class="img" src="/images/gallery/seve/Cane one arm color.JPG" alt="Seve Lightdrawing"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/seve/Cane one arm.JPG" alt="Seve Lightdrawing"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/seve/Push Harder - Conditionning 9.JPG" alt="Seve Lightdrawing"></div>
@@ -34,7 +33,6 @@ Meðal ljósmyndara eru: <a href="https://www.jongudmundsson.com/">Jón Guðmund
 	<div class=img-wrap><img class="img" src="/images/gallery/seve/Push Harder 2019 - Emmet Day 4 - 32.JPG" alt="Seve Lightdrawing"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/seve/Spotted figa by Mikael.JPG" alt="Seve Lightdrawing"></div>
 	<div class=img-wrap><img class="img" src="/images/gallery/seve/Tuck spot by Mikael.JPG" alt="Seve Lightdrawing"></div>
-
 	<div class="img-wrap"><img class="img" src="/images/gallery/merni/_MG_0354.JPG" alt="Mehrnaz"></div>
 </section>
 
