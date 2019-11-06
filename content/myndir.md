@@ -7,8 +7,8 @@ weight: 20
 
 <h3><a href="https://www.jongudmundsson.com/">Jón Guðmundsson</a></h3>
 <!-- {{< gallery dir="/images/gallery/nonni" />}}-->
-<div id="slidy-container">
-  <figure id="slidy">
+<div id="slider">
+  <figure>
 	<img src="/images/gallery/nonni/Bent leg straddle.jpg" alt>
 	<img src="/images/gallery/nonni/Full position.jpg" alt>
 	<img src="/images/gallery/nonni/Straddle.jpg" alt>
