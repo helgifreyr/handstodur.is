@@ -1,7 +1,7 @@
 ---
 title: "Myndir"
 date: 2018-02-20T11:02:43Z
-draft: false
+draft: true
 weight: 20
 ---
 
