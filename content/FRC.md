@@ -13,7 +13,7 @@ Tímarnir henta öllum og geta verið margar ástæður fyrir því að sækja �
     <div class="column">
         <h3 id="hvað-er-frc">Hvað er FRC?</h3>
             <p class="texti">
-            FRC, eða eða <a href="https://functionalanatomyseminars.com/">Functional Range Conditioning</a>, er nýstárleg nálgun á örugga og skilvirka hreyfingu þar sem áhersla er lögð á heilbrigði og getu liðamóta.
+            FRC, eða <a href="https://functionalanatomyseminars.com/">Functional Range Conditioning</a>, er nýstárleg nálgun á örugga og skilvirka hreyfingu þar sem áhersla er lögð á heilbrigði og getu liðamóta.
 			Meiðsli í daglegu lífi eða íþróttum orsakast af því að liðamót okkar og vefir verða fyrir meira álagi en þau ráða við.
 			Þetta á það til að gerast þegar að í veikustu ferlum liðamótanna.
             </p>
