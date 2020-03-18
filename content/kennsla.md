@@ -1,5 +1,5 @@
 ---
-title: "Kennsla"
+title: "Handstöður"
 date: 2018-02-20T10:43:56Z
 draft: false
 weight: 10
