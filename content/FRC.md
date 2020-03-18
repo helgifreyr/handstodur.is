@@ -53,9 +53,6 @@ Tímarnir henta öllum og geta verið margar ástæður fyrir því að sækja �
 			 Oftar en ekki kemur í ljós að skortur er á hreyfigetu í kringum sársaukasvæði.
 			 Þannig er sett saman skothelt heimavinnu prógram til þess að tækla þennan skort á hreyfigetu og oftar en ekki, minnkar sársauki til muna þegar að liðamót fara að hreyfa sig eins og þau eiga að gera.
 			 </p>
-			 <p class="text">Ég býð upp á bæði einkaþjálfun sem og fjarþjálfun í FRC aðferðafræðinni.</p>
-			 <p class="text"><b>Verð fyrir einkatíma</b>: 13.900 kr fyrir 60 mínútur.</p>
-			 <p class="text"><b>Verð fyrir fjarþjálfun</b>: 16.900 kr fyrir 1 mánuð og 42.900 kr fyrir 3 mánuði.</p>
     </div>
 </div>
 <br>
