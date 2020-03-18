@@ -1,32 +1,80 @@
 ---
-title: "Um Helga"
-date: 2018-02-20T10:33:50Z
+title: "Handstöður"
+date: 2018-02-20T10:43:56Z
 draft: false
-weight: 30
+weight: 10
 ---
 
-{{< figure class="image main" src="/images/cane-hand.jpg" >}}
+Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það og langar að læra meira?
+Ég býð upp á margskonar þjálfun og kennslu: <a href="#namskeid">námskeið</a>, <a href="#einkatimar">einkatíma</a>, <a href="#fjarthjalfun">fjarþjálfun</a>, <a href="#astundun">ástundunartíma</a> eða <a href="#gestakennsla">gestakennslu</a>.
 
-Helgi Freyr heiti ég og er áhugamaður um handstöðulistir (e. *handbalancing*).
-Sem barn spilaði ég fótbolta en var alltaf mjög stirður.
-Þessi stirðleiki varð svo til þess að ég sleit á mér nárann báðu megin sitthvort árið.
-Við tóku u.þ.b. tólf ár af tölvuleikjaspilun og eðlisfræðinámi þar sem að ég gerði lítið annað en að sitja fyrir framan tölvuna.
+<div class="row">
+    <div class="column"><img src="/images/pic01.jpg" width="90%" height="90%"/></div>
+    <div class="column">
+        <h3 id="namskeid">Námskeið</h3>
+            <p class="texti">
+            Ég held reglulega námskeið, bæði helgar og fjögurra vikna, þar sem að farið er yfir undirstöðuatriði handstöðulistarinnar. 
+            Á námskeiðinu er markmiðið að iðkendur læri þær æfingar sem þau þurfa til þess að bæta sig í sinni handstöðu.<br>
+            Námskeiðið hentar öllum og býð ég upp á bæði hóp fyrir byrjendur og lengra komna.
+            <i>Lengra komnir</i> eru þeir sem komast á hvolf við vegg og líður ágætlega þar í 30 sekúndur eða lengur.<br>
+            <b><a href="https://www.facebook.com/events/1220028901532783/">Næsta námskeið</a></b>: 21. og 22. mars.<br>
+            <b>Byrjendur</b>: 12.00-14.15<br>
+            <b>Lengra komnir</b>: 14.30-16.45<br>
+            <b>Verð</b>: 15.000 kr</p>
+            </p>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="column">
+            <h3 id="einkatimar">Einkatímar og hópþjálfun</h3>
+            <p class="texti">
+            Í einkatímum er unnið einn-á-einn eða í 2-4 manna hópum á markvissan hátt í að bæta handstöður og/eða liðleika. <br>
+            Einkatímar henta þeim vel sem iðka aðra íþrótt eða list en vilja bæta handstöðuna sína.
+            Þannig get ég sett saman æfingar og heimavinnu sem að passar með hinni iðkuninni. 
+			Tilvalið er fyrir æfingafélaga að mæta saman og fá æfingaprógram til að vinna saman í.<br>
+            Ég býð upp á einkatíma á virkum dögum í Primal Iceland.<br>
+            <b>Verð</b>: 13.900 kr fyrir 60 mínútur
+            </p>
+    </div>
+    <div class="column"><img src="/images/pic02.jpg" width="90%" height="90%"/></div>
+</div>
+<br>
+<div class="row">
+    <div class="column"><img src="/images/pic03.jpg" width="90%" height="90%"/></div>
+    <div class="column">
+        <h3 id="fjarthjalfun">Fjarþjálfun</h3>
+             <p class="texti">
+             Þar sem að fólk er á mismunandi stað í handstöðunni sinni, getur verið erfitt að setja saman prógram eftir námskeið.
+             Fjarþjálfun er góður kostur þar sem að ég sé um að setja saman prógram sérsniðið að þinni getu.<br>
+             Þjálfunin fer fram yfir samskipti í tölvupósti þar sem að þú sendir með stöðuna á þinni handstöðu og ég set saman sérsniðið prógram útfrá því.
+             Reglulega sendir þú mér svo stöðuna og við förum saman yfir þær æfingar og hvernig þú getur framkvæmt þær betur.
+             Miðað við frammistöðu og bætingar uppfæri ég svo prógrammið.<br>
+             Þannig getum við náð fram hámarks bætingum því að prógrammið er fyrir þig og þína getu að hverju sinni.
+             <br>
+             <b>Verð</b>: 16.900 kr fyrir einn mánuð, 42.900 kr fyrir þrjá mánuði.
+             </p>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="column">
+        <h3 id="astundun">Ástundunartímar</h3>
+            <p class="texti">
+            Í ástundunartímum er hugmyndin að iðkendur mæti og æfi sína handstöðu í hóp.
+            Hver og einn er því að gera sínar æfingar en umhverfið hvetur fólk til bætinga og betri skilnings.
+            Ég er á staðnum til þess að leiðbeina en geng á milli og hjálpa hverjum og einum á sínum stað. <br>
+            Tímarnir eru á <b>þriðjudögum kl. 18.45</b>. <br>
+            <b>Verð</b>: 2.500 kr skiptið. Frítt fyrir áskrifendur í Movement hjá Primal Iceland.
+            </p>
+    </div>
+    <div class="column"><img src="/images/pic04.jpg" width="90%" height="90%"/></div>
+</div>
+<br>
 
-Eftir þessi ár var líkaminn ansi illa á sig kominn.
-Í yfirþyngd með engan styrk né liðleika ákvað ég að fara að hreyfa mig aftur.
-Ég hóf ferðalag mitt í Boot Camp og stundaði jóga samhliða því.
-Eftir rúmlega ár af því, uppgötvaði ég ,,Movement'' og hóf að iðka það.
+<h2 id="gestakennsla">Gestakennsla</h2>
 
-Um það leiti áttaði ég mig á því að handstöður og listin að standa á höndum væri eitthvað sem ég hefði mikinn áhuga á, og fór hægt og rólega að einbeita mér að þeirri iðkun.
-Brátt tók sú iðkun yfir mest allar æfingar sem að ég gerði og ég fór að leita að handstöðulistaþjálfara.
-Leit mín endaði þegar að ég kynntist [Mikael Kristiansen](http://www.mikaelbalancing.com), norskum handstöðulistamanni.
-Síðan haustið 2016 hef ég lært listina að standa á höndum frá honum.
+Ég hef einnig haldið námskeið fyrir stærri hópa, stöðvar eða stúdíó. Dæmi um það eru vinahópar, íþróttafélög og fyrirtæki. Þau námskeið geta verið allt frá stuttum 90 mínútna kynningum að 6 tíma helgarnámskeiði.
 
-Ég sæki þó reglulega námskeið um allan heim og hef lært frá fólki á borð við [Sammy Dinneen](http://www.sammydinneen.com/), [Yuri Marmerstein](http://www.yuri-mar.com/), [Nicolas Montes de Oca](https://www.facebook.com/Nicolas-Montes-de-oca-Handbalancer-228429954179079/), [Matt Pasquet](http://mattpasquet.com/) og [The London School of Handbalancing and Acrobatics](https://www.facebook.com/The-London-School-of-Hand-Balancing-and-Acrobatics-164165417013330/).
 
-Námskeiðin mín henta öllum sem hafa áhuga á því að læra að standa á höndum og ég tel mig geta boðið upp á einstakt sjónarhorn á handstöðunalistina því að ég stóð aldrei á höndum sem barn.
-Ég hef kennt fólki á öllum þrepum handstöðunnar, hvort sem að það séu fimleikafólk, sirkuslistamenn eða einhver með engan bakgrunn.
-Ég tel mig geta miðlað þessari kennslu á einstakan máta því að ég fór frá því að geta bókstaflega ekkert yfir í að geta eitthvað.
-Einnig skilaði allt eðlisfræðinámið mér doktorsgráðu og ég tel að sá skilningur á eðlisfræði hjálpi mér að koma handstöðunni til skila.
-
-{{< socialLinks >}}
+**Allar skráningar og bókanir fara fram í gegnum tölvupóst: [helgi@primal.is](mailto:helgi@primal.is)**
