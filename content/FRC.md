@@ -59,9 +59,9 @@ Tímarnir henta öllum og geta verið margar ástæður fyrir því að sækja �
 <div class="row">
     <div class="column">
         <h3 id="thjalfun">Tegund þjálfunar</h3>
-			 <p class="text">Ég býð upp á bæði einkaþjálfun sem og fjarþjálfun í FRC aðferðafræðinni.</p>
-			 <p class="text"><b>Verð fyrir einkatíma</b>: 13.900 kr fyrir 60 mínútur.</p>
-			 <p class="text"><b>Verð fyrir fjarþjálfun</b>: 16.900 kr fyrir 1 mánuð og 42.900 kr fyrir 3 mánuði.</p>
+			 <p class="text">Ég býð upp á bæði einkaþjálfun sem og fjarþjálfun í FRC aðferðafræðinni.
+			 <br><b>Verð fyrir einkatíma</b>: 13.900 kr fyrir 60 mínútur.
+			 <br><b>Verð fyrir fjarþjálfun</b>: 16.900 kr fyrir 1 mánuð og 42.900 kr fyrir 3 mánuði.</p>
     </div>
     <div class="column"><img src="/images/pic09.jpg" width="90%" height="90%"/></div>
 </div>
