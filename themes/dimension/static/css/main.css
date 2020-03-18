@@ -935,9 +935,9 @@ button {
         min-width: 7.5rem;
         height: 2.75rem;
         line-height: 2.75rem;
-        padding: 0 1.0rem 0 1.0rem;
+        padding: 0 0.8rem 0 0.8rem;
         text-transform: uppercase;
-        letter-spacing: 0.15rem;
+        letter-spacing: 0.12rem;
         font-size: 0.8rem;
         border-bottom: 0; }
         #header nav ul li a:hover {
