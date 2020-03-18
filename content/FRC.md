@@ -61,13 +61,23 @@ Tímarnir henta öllum og geta verið margar ástæður fyrir því að sækja �
 <br>
 <div class="row">
     <div class="column">
+        <h3 id="thjalfun">Tegund þjálfunar</h3>
+			 <p class="text">Ég býð upp á bæði einkaþjálfun sem og fjarþjálfun í FRC aðferðafræðinni.</p>
+			 <p class="text"><b>Verð fyrir einkatíma</b>: 13.900 kr fyrir 60 mínútur.</p>
+			 <p class="text"><b>Verð fyrir fjarþjálfun</b>: 16.900 kr fyrir 1 mánuð og 42.900 kr fyrir 3 mánuði.</p>
+    </div>
+    <div class="column"><img src="/images/pic07.jpg" width="90%" height="90%"/></div>
+</div>
+<br>
+<div class="row">
+	<div class="column"><img src="/images/pic07.jpg" width="90%" height="90%"/></div>
+    <div class="column">
         <h3 id="fraedsla">Fræðsla fyrir hópa og félög</h3>
             <p class="texti">
             Ég tek einnig að mér fræðslu fyrir hópa og félög sem er þá sérsniðin að þeirra iðkun.
 			Þar eru almenn hugtök aðferðafræðinnar tekin saman og útskýrt hvernig bætt hreyfigeta og styrkur geta hjálpað til við hvaða hreyfingu sem er.
             </p>
     </div>
-    <div class="column"><img src="/images/pic07.jpg" width="90%" height="90%"/></div>
 </div>
 <br>
 
