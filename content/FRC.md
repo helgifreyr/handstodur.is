@@ -43,7 +43,7 @@ Tímarnir henta öllum og geta verið margar ástæður fyrir því að sækja �
 <div class="row">
     <div class="column"><img src="/images/pic08.jpg" width="90%" height="90%"/></div>
     <div class="column">
-        <h3 id="the-class">Hvernig er tíminn uppbyggður?</h3>
+        <h3 id="the-class">Hvað er í boði?</h3>
              <p class="texti">
              Hugmyndafræði FRC byggir að miklu leiti á því að til þess að geta notað mörg liðamót í sameiningu og framkvæmt flóknar hreyfingar, eins og að ganga, hoppa eða hlaupa, þá þurfa einstök liðamót í hreyfiferlinu að hreyfa sig eins vel og hægt er.
 			 Ef að einhver liðamót sem taka þátt í hreyfiferlinum sinna ekki sínu starfi, þá ,,blæðir'' hreyfingin annað og veldur það oft vandræðum.
@@ -53,6 +53,9 @@ Tímarnir henta öllum og geta verið margar ástæður fyrir því að sækja �
 			 Oftar en ekki kemur í ljós að skortur er á hreyfigetu í kringum sársaukasvæði.
 			 Þannig er sett saman skothelt heimavinnu prógram til þess að tækla þennan skort á hreyfigetu og oftar en ekki, minnkar sársauki til muna þegar að liðamót fara að hreyfa sig eins og þau eiga að gera.
 			 </p>
+			 <p class="text">Ég býð upp á bæði einkaþjálfun sem og fjarþjálfun í FRC aðferðafræðinni.</p>
+			 <p class="text"><b>Verð fyrir einkatíma</b>: 13.900 kr fyrir 60 mínútur.</p>
+			 <p class="text"><b>Verð fyrir fjarþjálfun</b>: 16.900 kr fyrir 1 mánuð og 42.900 kr fyrir 3 mánuði.</p>
     </div>
 </div>
 <br>
