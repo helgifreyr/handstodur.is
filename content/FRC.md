@@ -66,7 +66,7 @@ Tímarnir henta öllum og geta verið margar ástæður fyrir því að sækja �
 			 <p class="text"><b>Verð fyrir einkatíma</b>: 13.900 kr fyrir 60 mínútur.</p>
 			 <p class="text"><b>Verð fyrir fjarþjálfun</b>: 16.900 kr fyrir 1 mánuð og 42.900 kr fyrir 3 mánuði.</p>
     </div>
-    <div class="column"><img src="/images/pic07.jpg" width="90%" height="90%"/></div>
+    <div class="column"><img src="/images/pic09.jpg" width="90%" height="90%"/></div>
 </div>
 <br>
 <div class="row">
