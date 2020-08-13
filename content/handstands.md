@@ -17,10 +17,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
             Á námskeiðinu er markmiðið að iðkendur læri þær æfingar sem þau þurfa til þess að bæta sig í sinni handstöðu.<br>
             Námskeiðið hentar öllum og býð ég upp á bæði hóp fyrir byrjendur og lengra komna.
             <i>Lengra komnir</i> eru þeir sem komast á hvolf við vegg og líður ágætlega þar í 30 sekúndur eða lengur.<br>
-            <b><a href="https://www.facebook.com/events/601288070480183/" target="_blank">Næsta námskeið</a></b>: 30. og 31. maí eða 6. og 7. júní.<br>
-            <b>Byrjendur 30. og 31. maí</b>: 12.00-14.15<br>
-			<b>Byrjendur 6. og 7. júní</b>: 12.00-14.15<br>
-            <b>Lengra komnir  6. og 7. júní</b>: 14.30-16.45<br>
+            <b><a href="https://www.facebook.com/events/3140219436067998/" target="_blank">Næsta námskeið</a></b>: 29. ágúst frá kl. 14.00-17.00<br>
             <b>Verð</b>: 15.000 kr</p>
             </p>
     </div>
