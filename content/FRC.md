@@ -1,12 +1,13 @@
 ---
-title: "FRC"
+title: "FRS"
 date: 2018-02-20T10:43:56Z
 draft: false
 weight: 10
 ---
 
-Ég býð upp á einkatíma eftir svokallaðri FRC, eða <a href="https://functionalanatomyseminars.com/">Functional Range Conditioning</a>, aðferðafræði.
+Ég býð upp á einkatíma eftir svokallaðri FRS, eða <a href="https://functionalanatomyseminars.com/">Functional Range Systems</a>, aðferðafræði.
 Tímarnir henta öllum og geta verið margar ástæður fyrir því að sækja þá, svo sem vegna almennrar heilsu eða íþróttaiðkunar.
+Innan þess kerfis býð ég upp á FRC einkatíma og Kinstretch hóptíma.
 
 <div class="row">
     <div class="column"><img src="/images/pic05.jpg" width="90%" height="90%"/></div>
@@ -69,11 +70,19 @@ Tímarnir henta öllum og geta verið margar ástæður fyrir því að sækja �
 <div class="row">
 	<div class="column"><img src="/images/pic07.jpg" width="90%" height="90%"/></div>
     <div class="column">
-        <h3 id="fraedsla">Fræðsla fyrir hópa og félög</h3>
+        <h3 id="fraedsla">Kinstretch hóptímar</h3>
             <p class="texti">
-            Ég tek einnig að mér fræðslu fyrir hópa og félög sem er þá sérsniðin að þeirra iðkun.
-			Þar eru almenn hugtök aðferðafræðinnar tekin saman og útskýrt hvernig bætt hreyfigeta og styrkur geta hjálpað til við hvaða hreyfingu sem er.
+            Kinstretch er svar FRS við hóptíma kennslu. Þar er FRS aðferðafræðinni beitt á hópa og settir eru saman hóptímar með það að markmiði að bæta og styrkja hreyfigetu.
+			Æfingakerfið er hugsað sem viðbót við aðra iðkun og hannað til þess að bæta og viðhalda alhliða hreyfigetu líkamans á skilvirkan máta.
+			Kinstretch tímar henta hverjum sem er, óháð iðkun eða íþrótt, þar sem að unnið er skipulega í því að útrýma veikleikum þegar kemur að hreyfigetu og notkun hennar.
             </p>
+			<p class="texti">
+			Ég verð með fjögurra vikna Kinstretch námskeið í Primal Iceland.
+			Námskeiðið hentar öllum og hafa Kinstretch tímar reynst vel til þess að bæta hreyfigetu fyrir íþróttir og aðra iðkun.
+			Námskeiðið hentar einstaklega vel sem viðbót við aðra iðkun.
+			<br><b>Hvenær</b>: Þriðjudaga kl. 12.10-13.10 frá 10. nóvember til 8. desember (ath. að 1. des fellur niður).
+			<br><b>Verð</b>: 12.000 kr fyrir fjórar vikur.
+			</p>
     </div>
 </div>
 <br>
