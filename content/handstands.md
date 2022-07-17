@@ -51,7 +51,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
              Miðað við frammistöðu og bætingar uppfæri ég svo prógrammið.<br>
              Þannig getum við náð fram hámarks bætingum því að prógrammið er fyrir þig og þína getu að hverju sinni.
              <br>
-             <b>Verð</b>: 16.900 kr fyrir einn mánuð, 42.900 kr fyrir þrjá mánuði.
+             <b>Verð</b>: 18.000 kr fyrir einn mánuð, 45.000 kr fyrir þrjá mánuði.
              </p>
     </div>
 </div>
