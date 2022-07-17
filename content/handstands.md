@@ -76,4 +76,4 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
 Ég hef einnig haldið námskeið fyrir stærri hópa, stöðvar eða stúdíó. Dæmi um það eru vinahópar, íþróttafélög og fyrirtæki. Þau námskeið geta verið allt frá stuttum 90 mínútna kynningum að 6 tíma helgarnámskeiði.
 
 
-**Allar skráningar og bókanir fara fram í gegnum tölvupóst: [helgi@primal.is](mailto:helgi@primal.is)**
+**Allar skráningar og bókanir fara fram í gegnum tölvupóst: [helgi@helgifreyr.is](mailto:helgi@helgifreyr.is)**
