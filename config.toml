@@ -21,12 +21,12 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "https://www.facebook.com/HandstoduHelgi/"
+  link = "https://www.facebook.com/KinstretchMedHelga"
 
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "mailto:helgi@primal.is"
+  link = "mailto:helgi@helgifreyr.is"
 
 [languages]
 [languages.is]
