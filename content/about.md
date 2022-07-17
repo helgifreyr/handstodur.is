@@ -24,7 +24,7 @@ Síðan haustið 2016 hef ég lært listina að standa á höndum frá honum.
 
 Ég sæki þó reglulega námskeið um allan heim og hef lært frá fólki á borð við [Sammy Dinneen](http://www.sammydinneen.com/), [Yuri Marmerstein](http://www.yuri-mar.com/), [Nicolas Montes de Oca](https://www.facebook.com/Nicolas-Montes-de-oca-Handbalancer-228429954179079/), [Matt Pasquet](http://mattpasquet.com/) og [The London School of Handbalancing and Acrobatics](https://www.facebook.com/The-London-School-of-Hand-Balancing-and-Acrobatics-164165417013330/).
 
-Námskeiðin mín henta öllum sem hafa áhuga á því að læra að standa á höndum og ég tel mig geta boðið upp á einstakt sjónarhorn á handstöðunalistina því að ég stóð aldrei á höndum sem barn.
+Þjálfunin mín hentar öllum sem hafa áhuga á því að læra að standa á höndum og ég tel mig geta boðið upp á einstakt sjónarhorn á handstöðunalistina því að ég stóð aldrei á höndum sem barn.
 Ég hef kennt fólki á öllum þrepum handstöðunnar, hvort sem að það séu fimleikafólk, sirkuslistamenn eða einhver með engan bakgrunn.
 Ég tel mig geta miðlað þessari kennslu á einstakan máta því að ég fór frá því að geta bókstaflega ekkert yfir í að geta eitthvað.
 Einnig skilaði allt eðlisfræðinámið mér doktorsgráðu og ég tel að sá skilningur á eðlisfræði hjálpi mér að koma handstöðunni til skila.

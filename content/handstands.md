@@ -6,10 +6,10 @@ weight: 10
 ---
 
 Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það og langar að læra meira?
-Ég býð upp á margskonar þjálfun og kennslu: <a href="#namskeid">námskeið</a>, <a href="#einkatimar">einkatíma</a>, <a href="#fjarthjalfun">fjarþjálfun</a>, <a href="#astundun">ástundunartíma</a> eða <a href="#gestakennsla">gestakennslu</a>.
+<!--Ég býð upp á margskonar þjálfun og kennslu: <a href="#namskeid">námskeið</a>, <a href="#einkatimar">einkatíma</a>, <a href="#fjarthjalfun">fjarþjálfun</a>, <a href="#astundun">ástundunartíma</a> eða <a href="#gestakennsla">gestakennslu</a>.-->
 
-<div class="row">
-    <div class="column"><img src="/images/pic01.jpg" width="90%" height="90%"/></div>
+<!--<div class="row">
+    <div class="column"><img src="/images/pic02.jpg" width="90%" height="90%"/></div>
     <div class="column">
         <h3 id="namskeid">Námskeið</h3>
             <p class="texti">
@@ -18,12 +18,12 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
             Námskeiðið hentar öllum og býð ég upp á bæði hóp fyrir byrjendur og lengra komna.
             <i>Lengra komnir</i> eru þeir sem komast á hvolf við vegg og líður ágætlega þar í 30 sekúndur eða lengur.<br>
 			<p class="texti">Óvíst er hvenær næsta námskeið er vegna Covid.</p>
-            <!--<b><a href="https://www.facebook.com/events/4115793988435545/" target="_blank">Næsta námskeið</a></b>: 28. nóvember frá kl. 14.00-17.00<br>-->
+            <b><a href="https://www.facebook.com/events/4115793988435545/" target="_blank">Næsta námskeið</a></b>: 28. nóvember frá kl. 14.00-17.00<br>
             <b>Verð</b>: 15.000 kr</p>
             </p>
     </div>
 </div>
-<br>
+<br>-->
 <div class="row">
     <div class="column">
             <h3 id="einkatimar">Einkatímar og hópþjálfun</h3>
@@ -32,8 +32,8 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
             Einkatímar henta þeim vel sem iðka aðra íþrótt eða list en vilja bæta handstöðuna sína.
             Þannig get ég sett saman æfingar og heimavinnu sem að passar með hinni iðkuninni. 
 			Tilvalið er fyrir æfingafélaga að mæta saman og fá æfingaprógram til að vinna saman í.<br>
-            Ég býð upp á einkatíma á virkum dögum í Primal Iceland.<br>
-            <b>Verð</b>: 13.900 kr fyrir 60 mínútur
+            Ég býð upp á einkatíma á virkum dögum í Mjölni.<br>
+            <b>Verð</b>: 16.000 kr skiptið
             </p>
     </div>
     <div class="column"><img src="/images/pic02.jpg" width="90%" height="90%"/></div>
@@ -55,7 +55,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
              </p>
     </div>
 </div>
-<br>
+<!--<br>
 <div class="row">
     <div class="column">
         <h3 id="astundun">Ástundunartímar</h3>
@@ -69,7 +69,7 @@ Hefur þig alltaf langað til að læra að standa á höndum eða kanntu það 
     </div>
     <div class="column"><img src="/images/pic04.jpg" width="90%" height="90%"/></div>
 </div>
-<br>
+<br>-->
 
 <h2 id="gestakennsla">Gestakennsla</h2>
 
